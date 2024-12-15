@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "MapoDacapo";
+  src: url("https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDacapoA.woff")
+    format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
 .frame-3,
 .frame-3 * {
   box-sizing: border-box;
